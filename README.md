@@ -1,5 +1,5 @@
 # Uber-Data-Analysis-Python
-
+![Image](https://github.com/user-attachments/assets/0d5dad2a-0a59-43e1-ba5d-5f43d741d436)
 ## Overview
 
 This project analyzes Uber ride data to uncover trends, peak hours, popular pickup locations, and other insights that can help optimize ride-sharing services. The dataset contains trip details, including timestamps, locations, and trip distances.
